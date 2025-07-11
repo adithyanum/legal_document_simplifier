@@ -64,6 +64,4 @@ The app was tested on various legal documents including the **Indian Patents Act
 
 ## 🧾 Sample Output
 
-![summary](assets/sample_summary.png)
-
 📄 [Click to View Full Summary PDF]([assets/Legal_Document_Simplifier.pdf](https://github.com/adithyanum/legal_document_simplifier/blob/977c317e1ec518e2081a9ebb225f30b3c1931995/Legal_Document_Simplifier.pdf))
